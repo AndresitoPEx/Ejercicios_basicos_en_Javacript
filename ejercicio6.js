@@ -1,0 +1,1 @@
+//6.Escribir un programa en JavaScript que use la estructura "for-of" para iterar sobre un objeto y imprimir sus propiedades y valores.
